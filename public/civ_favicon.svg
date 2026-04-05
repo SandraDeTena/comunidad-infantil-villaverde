@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Comunidad Infantil de Villaverde favicon</title>
+  <g stroke="#111111" stroke-width="26" stroke-linecap="round" stroke-linejoin="round">
+    <!-- hair -->
+    <path d="M147 82 L132 34"/>
+    <path d="M190 58 L179 18"/>
+    <path d="M236 46 L232 12"/>
+    <path d="M282 46 L286 12"/>
+    <path d="M328 58 L339 18"/>
+    <path d="M371 82 L386 34"/>
+    <path d="M109 111 L74 81"/>
+    <path d="M403 111 L438 81"/>
+    <path d="M88 152 L48 139"/>
+    <path d="M424 152 L464 139"/>
+    <!-- head -->
+    <circle cx="256" cy="230" r="150" fill="white"/>
+    <!-- eyes -->
+    <circle cx="204" cy="196" r="10" fill="#111111"/>
+    <circle cx="308" cy="196" r="10" fill="#111111"/>
+    <!-- smile -->
+    <path d="M180 254 C205 305 307 305 332 254"/>
+  </g>
+</svg>
